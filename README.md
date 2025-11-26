@@ -6,6 +6,6 @@
   
   <br/><br/>
 
-  <img src="https://github.com/rose-robin/rose-robin/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="600">
+  <img src="https://github.com/rose-robin/rose-robin/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="450">
 
 </div>
