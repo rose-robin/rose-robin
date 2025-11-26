@@ -5,11 +5,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,css,bootstrap,git,maven&perline=10" />
   
   <br/><br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://api.github-readme-stats.vercel.app/api?username=rose-robin&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://api.github-readme-stats.vercel.app/api/top-langs/?username=rose-robin&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</a>
+
+  <img src="https://github.com/rose-robin/rose-robin/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="100%">
 
 </div>
